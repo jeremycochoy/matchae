@@ -25,7 +25,7 @@ The Aoba Chrome on `:9340` is sitting on the IG signup page with the form filled
 1. Bring the Aoba Chrome window to the front (the one that says "Aidez-nous à confirmer que c'est bien vous").
 2. Click the **"Je ne suis pas un robot"** checkbox. If it asks you to pick traffic lights, do that.
 3. Click **Suivant**.
-4. Instagram will email a 6-digit code to `jeremy+aoba@redstone.ee`. Open Gmail, paste the code in the IG page, click confirm.
+4. Instagram will email a 6-digit code to `jeremycochoy+aoba@gmail.com`. Open Gmail, paste the code in the IG page, click confirm.
 5. If IG asks for a phone for verification, skip if "Skip" is offered. If not, use any number you don't mind associating with this brand — IG occasionally re-asks.
 6. Once you're on the main IG feed, open `.secrets/credentials.txt` for the password and bookmark it.
 
