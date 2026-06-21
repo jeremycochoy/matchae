@@ -1,4 +1,4 @@
-# Matchaé — Instagram captions days 8–14
+# Aoba — Instagram captions days 8–14
 
 Same format as week 1, same theory rotation, same voice. Hashtags are 8–15 per post — one or two big-volume tags carrying the rest of mid-tail ones so we aren't drowning in over-competed pools.
 
@@ -9,7 +9,7 @@ Same format as week 1, same theory rotation, same voice. Hashtags are 8–15 per
 **Caption:**
 A pre-workout snack that isn't an ingredient label.
 
-Greek yogurt + a spoonful of Matchaé + a sliced banana.
+Greek yogurt + a spoonful of Aoba + a sliced banana.
 
 Real fat (cocoa butter). Real protein (yogurt). Real sugar (raw honey + banana). The matcha brings L-theanine, which pairs with caffeine the way a guitar pairs with a tuning peg — gives you focus without the jitter.
 
@@ -24,14 +24,14 @@ Link in bio — next batch dropping soon.
 ## Day 8 — Slot 2 (T-A) — `img/t-a-ingredients.jpg` (Reel — what's in it)
 
 **Caption (Reel):**
-What's in a jar of Matchaé:
+What's in a jar of Aoba:
 
 Cocoa butter (organic, unrefined).
 Raw wildflower honey (single-origin).
 Ceremonial Uji matcha (first harvest).
 Sea salt (a pinch).
 
-What's not in a jar of Matchaé:
+What's not in a jar of Aoba:
 Palm oil. Refined sugar. Milk powder. Sunflower oil. Soy lecithin. "Natural flavour." Emulsifiers. Stabilisers.
 
 That's the whole comparison.
@@ -58,7 +58,7 @@ Same Uji farm, same first-harvest stone-ground powder, same shaded leaves. The w
 **Caption:**
 Swirl, don't mix.
 
-Two spoons of Matchaé folded into vanilla cheesecake batter, marbled gently with a knife before baking. You want green ribbons through the slice, not a uniform green.
+Two spoons of Aoba folded into vanilla cheesecake batter, marbled gently with a knife before baking. You want green ribbons through the slice, not a uniform green.
 
 The matcha gives you the bitterness-without-bitterness. The honey gives you the sweetness-without-sugar. The cocoa butter gives you the melt.
 
@@ -73,7 +73,7 @@ Comment "swirl" if you want the full recipe in DMs.
 **Caption:**
 The after-school snack we keep coming back to:
 
-Two cracker halves. A thick layer of Matchaé in between. A few sliced strawberries on top of one half. A glass of cold whole milk.
+Two cracker halves. A thick layer of Aoba in between. A few sliced strawberries on top of one half. A glass of cold whole milk.
 
 Three ingredients on the plate that a kid can name. The fourth is the parent who didn't have to negotiate.
 
@@ -133,7 +133,7 @@ We use it the way it was grown to be used: gently, fully, and never as a coloura
 **Caption:**
 A dipping board for the weekend.
 
-Centre: jar of Matchaé. Around it: short-bread cookies, fresh strawberries, a small bowl of toasted hazelnuts, a few slices of brioche.
+Centre: jar of Aoba. Around it: short-bread cookies, fresh strawberries, a small bowl of toasted hazelnuts, a few slices of brioche.
 
 Each thing dipped in a different way: cookies for the satisfying crunch, strawberries for the cold against the spread, hazelnuts for the texture, brioche because it's basically butter and we live for a contrast.
 
@@ -150,7 +150,7 @@ A breakfast routine that took us a while to get right:
 
 - Toast the sourdough fully (not pale).
 - Wait 30 seconds — you want it warm, not hot, otherwise the spread goes runny.
-- A generous layer of Matchaé, not a polite one.
+- A generous layer of Aoba, not a polite one.
 - A small handful of berries if you've got them.
 
 Kids ask for seconds. Parents drink their coffee in peace. Nobody negotiates.
@@ -207,9 +207,9 @@ A small reminder that even matcha has seasons, and a jar tastes the way the year
 ## Day 14 — Slot 2 (T-E) — `img/t-e-croissant.jpg` (weekend round-up)
 
 **Caption:**
-The Matchaé weekend recipe round-up — saved for Sunday morning:
+The Aoba weekend recipe round-up — saved for Sunday morning:
 
-- Croissant + Matchaé fold (Day 2)
+- Croissant + Aoba fold (Day 2)
 - Brown-butter sablé sandwich (Day 4)
 - Vanilla cheesecake swirl (Day 7 + Day 9)
 - Sunday dipping board (Day 12)

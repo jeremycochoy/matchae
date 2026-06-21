@@ -1,4 +1,4 @@
-# Matchaé — Instagram captions for the first 14 days
+# Aoba — Instagram captions for the first 14 days
 
 Each entry has: post slot, theory tag (per STRATEGY.md), image to use, caption, hashtags, CTA. Hashtags sit at the bottom of the caption (Instagram convention) — 8–15 max, mixing one or two big-volume tags with several mid-tail ones so we're not drowning in over-competed pools.
 
@@ -15,7 +15,7 @@ Ceremonial Uji matcha. Organic cocoa butter. Raw wildflower honey. A pinch of se
 
 That's the whole jar. No palm oil. No refined sugar. No vegetable shortenings hiding behind "natural flavour."
 
-We started Matchaé because the green spreads on the shelf were mostly white chocolate with a wave at matcha. We wanted the opposite — matcha first, sweetness second, everything else nowhere.
+We started Aoba because the green spreads on the shelf were mostly white chocolate with a wave at matcha. We wanted the opposite — matcha first, sweetness second, everything else nowhere.
 
 First batch is out — link in bio for the next one.
 
@@ -39,7 +39,7 @@ A spread is only as good as the ingredient it leads with. We led with this one.
 ## Day 2 — Slot 1 (T-E) — `img/t-e-croissant.jpg`
 
 **Caption:**
-Croissant. Warm. Sliced. Half a spoonful of Matchaé in the fold.
+Croissant. Warm. Sliced. Half a spoonful of Aoba in the fold.
 
 The butter does its thing on one side, the cocoa butter does its thing on the other, and somewhere in the middle the honey and the matcha meet. We're still working out if that's a recipe or a religious experience.
 
@@ -63,7 +63,7 @@ Yes.
 "Can I have more?"
 …we'll think about it.
 
-Matchaé is sweetened only with raw honey. The green is matcha, not food dye. The fat is cocoa butter, not palm oil. The "yes I'll have seconds" energy is theirs.
+Aoba is sweetened only with raw honey. The green is matcha, not food dye. The fat is cocoa butter, not palm oil. The "yes I'll have seconds" energy is theirs.
 
 A jar lasts about a week in a house with kids. We've timed it.
 
@@ -76,7 +76,7 @@ Link in bio when the next batch ships.
 ## Day 3 — Slot 1 (T-D) — `img/t-d-yogurt.jpg`
 
 **Caption:**
-Greek yogurt + a spoon of Matchaé.
+Greek yogurt + a spoon of Aoba.
 
 No protein powder, no maple syrup, no "natural flavourings."
 
@@ -126,7 +126,7 @@ We've spent a year on the rest of the recipe with the same patience. The cocoa b
 ## Day 4 — Slot 2 (T-E) — `img/t-e-cookie.jpg`
 
 **Caption:**
-Matcha sandwich cookie, with a generous layer of Matchaé in the middle.
+Matcha sandwich cookie, with a generous layer of Aoba in the middle.
 
 The cookie part is a brown-butter sablé. The middle part is doing all the talking.
 
@@ -143,7 +143,7 @@ Link in bio — next batch on the way.
 **Caption:**
 Lunchbox audit.
 
-Sliced brioche, Matchaé, strawberries, a small handful of blueberries. The brioche is yesterday's. The spread is the green hero. The fruit is the supporting cast.
+Sliced brioche, Aoba, strawberries, a small handful of blueberries. The brioche is yesterday's. The spread is the green hero. The fruit is the supporting cast.
 
 Three ingredients across the whole box — none of which are hidden seed oils, food dye, or "natural flavour" doing the heavy lifting.
 
@@ -202,7 +202,7 @@ A spread inherits the ingredient at its centre. So we built the recipe around th
 ## Day 7 — Slot 1 (T-E) — `img/t-e-swirl.jpg`
 
 **Caption:**
-Two spoons of Matchaé folded into vanilla cheesecake batter, swirled (not mixed) before it bakes.
+Two spoons of Aoba folded into vanilla cheesecake batter, swirled (not mixed) before it bakes.
 
 You get a green ribbon through every slice, a hit of matcha that comes and goes, and a sweetness that's coming from honey, not sugar.
 

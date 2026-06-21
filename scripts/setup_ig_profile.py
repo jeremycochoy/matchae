@@ -1,8 +1,8 @@
 #!/opt/homebrew/opt/python@3.11/bin/python3.11
-"""Set the Matchaé Instagram profile bio, link, and avatar.
+"""Set the Aoba Instagram profile bio, link, and avatar.
 
 Run once after the Instagram account is created and you're logged in to the
-Matchaé Chrome (CDP port :9340).
+Aoba Chrome (CDP port :9340).
 
   ./scripts/setup_ig_profile.py
 """

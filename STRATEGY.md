@@ -1,8 +1,8 @@
-# Matchaé — Marketing Strategy
+# Aoba — Marketing Strategy
 
 ## Product
 
-**Matchaé** — an organic matcha spread that tastes like white chocolate dipped in ceremonial-grade matcha. Cocoa butter base, raw honey sweetening, ceremonial Uji matcha, **zero palm oil**, **zero refined sugar**, **zero bitterness**. Spreadable, soft, naturally green.
+**Aoba** — an organic matcha spread that tastes like white chocolate dipped in ceremonial-grade matcha. Cocoa butter base, raw honey sweetening, ceremonial Uji matcha, **zero palm oil**, **zero refined sugar**, **zero bitterness**. Spreadable, soft, naturally green.
 
 Positioning line: *White chocolate, born from the leaf.*
 
@@ -82,7 +82,7 @@ Two posts/day. Each tagged by theory. The mix is intentionally even (≈3 per th
 | 13 | T-D wellness creator collab pitch | T-A "we're out of stock" honest update |
 | 14 | T-B last harvest news | T-E weekend recipe round-up |
 
-Every post links to **matchae.shop** (or the github.io URL) which says **OUT OF STOCK** + email capture, framed as "Get notified the moment the first batch ships — we're keeping the first run small on purpose." Scarcity is honest here; we're genuinely pre-launch.
+Every post links to **aoba.shop** (or the GitHub Pages URL while the domain is pending) which says **OUT OF STOCK** + email capture, framed as "Get notified the moment the first batch ships — we're keeping the first run small on purpose." Scarcity is honest here; we're genuinely pre-launch.
 
 ## Measurement
 
@@ -101,7 +101,7 @@ After 14 days the two theories with the highest **email-signup-per-reach** ratio
 
 ## Brand visual
 
-- Logo wordmark: "Matchaé" in a thin modern serif, the é accent in matcha-green.
+- Logo wordmark: "Aoba" in a thin modern serif, the é accent in matcha-green.
 - Primary green: `#5A7A4A` (muted, like aged matcha leaf).
 - Cream / off-white: `#F4EFE6`.
 - Cocoa accent: `#3D2B1F`.
