@@ -34,7 +34,7 @@ def first_page():
         pages = list_pages()
     # prefer non-DevTools, non-blank
     pages.sort(key=lambda p: (
-        0 if "matchae" in p.get("url","").lower() else 1,
+        0 if "/aoba" in p.get("url","").lower() or "aoba.spread" in p.get("url","").lower() else 1,
         0 if "instagram" in p.get("url","").lower() else 1,
         0 if p.get("url","")!="about:blank" else 1,
     ))
