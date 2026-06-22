@@ -1,2 +1,9 @@
 timestamp,image,status,error
-2026-06-22T10:18:56,img/hero-jar.jpg,publish_unverified,
+2026-06-22T10:26:38,img/hero-jar.jpg,published,
+2026-06-22T10:26:56,img/t-a-ingredients.jpg,publish_unverified,
+2026-06-22T10:27:15,img/t-a-jar-pour.jpg,publish_unverified,
+2026-06-22T10:27:34,img/t-b-chasen.jpg,publish_unverified,
+2026-06-22T10:27:53,img/t-b-uji.jpg,published,
+2026-06-22T10:28:12,img/t-c-toast.jpg,publish_unverified,
+2026-06-22T10:28:30,img/t-c-lunchbox.jpg,publish_unverified,
+2026-06-22T10:28:50,img/t-d-yogurt.jpg,publish_unverified,

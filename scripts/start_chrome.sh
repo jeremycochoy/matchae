@@ -11,17 +11,18 @@ if curl -sf "http://localhost:${PORT}/json/version" >/dev/null 2>&1; then
   exit 0
 fi
 
-open -na "Google Chrome" --args \
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome \
   --user-data-dir="$PROFILE_DIR" \
   --remote-debugging-port="$PORT" \
-  --remote-allow-origins=* \
+  '--remote-allow-origins=*' \
   --no-first-run \
   --no-default-browser-check \
-  --disable-backgrounding-occluded-windows \
-  --disable-renderer-backgrounding \
-  --window-size=1400,1000 \
-  --window-position=-2400,-2400 \
-  about:blank
+  --headless=new \
+  --disable-gpu \
+  --hide-scrollbars \
+  --window-size=1400,900 \
+  about:blank &
+disown
 
 # wait for CDP to come up
 for i in $(seq 1 30); do

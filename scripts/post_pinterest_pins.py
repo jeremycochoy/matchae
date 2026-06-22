@@ -110,23 +110,35 @@ def main():
 
         print(f"\n=== {img} ===")
 
-        # Open a fresh tab — guarantees no SPA state
-        new_tab("https://www.pinterest.com/pin-creation-tool/")
-        time.sleep(3)
-        # Locate that newly opened tab (most recently opened pin-creation-tool tab)
-        for _ in range(10):
-            time.sleep(1)
-            pages = [p for p in list_pages() if "pin-creation-tool" in p.get("url","")]
-            if pages: break
-        if not pages:
-            print("  ! couldn't find new tab"); log_result(img, "no_tab"); failed += 1; continue
-        page = pages[0]
-        try:
-            c = CDP(page=page)
-        except Exception as e:
-            print(f"  ! CDP attach: {e}"); log_result(img, "cdp_attach_err", str(e)); failed += 1; continue
-        # Intentionally NOT calling Page.bringToFront — must run in background, don't steal focus
-        c.wait_load(timeout=20); time.sleep(3)
+        # Tab churn after publish: Pinterest opens a new tab on success and
+        # may close the old one. Pick the freshest Pinterest tab; attach with
+        # retry if first pick is stale.
+        c = None
+        for attempt in range(3):
+            pages_all = list_pages()
+            pin_pages = [p for p in pages_all if "pinterest" in p.get("url","")]
+            # Close any stale /pin/<id> result tabs to keep state clean
+            for p in pin_pages:
+                if "/pin/" in p.get("url","") and "creation-tool" not in p.get("url",""):
+                    close_tab(p["id"])
+            pages_all = list_pages()
+            pin_pages = [p for p in pages_all if "pinterest" in p.get("url","")]
+            if not pin_pages:
+                new_tab("https://www.pinterest.com/pin-creation-tool/")
+                time.sleep(3)
+                continue
+            # Pick the pin-creation-tool tab if available
+            page = next((p for p in pin_pages if "pin-creation-tool" in p.get("url","")), pin_pages[0])
+            try:
+                c = CDP(page=page); break
+            except Exception as e:
+                time.sleep(1); continue
+        if c is None:
+            print(f"  ! couldn't attach after retries"); log_result(img, "cdp_attach_err"); failed += 1; continue
+        # NOT calling Page.bringToFront — Chrome is headless, stays backgrounded
+        c.goto("about:blank"); c.wait_load(timeout=10); time.sleep(1)
+        c.goto("https://www.pinterest.com/pin-creation-tool/")
+        c.wait_load(timeout=20); time.sleep(4)
 
         if not wait_for(c, "document.querySelectorAll('input[type=file]').length > 0", timeout=15, label="file input"):
             log_result(img, "no_file_input"); failed += 1
